@@ -16,6 +16,7 @@ Mais em: [https://github.com/adolfoguimaraes](https://github.com/adolfoguimaraes
 
 - [Notebook](Material.ipynb)
 - [Sides](https://docs.google.com/presentation/d/1aP2RSaunm2rqmZmhy6XpTL7Vj75kNexpEsOMJWhYyXA/edit?usp=sharing)
+- [Dados](https://drive.google.com/drive/folders/1Td4fsWZIpHtv81r4uPEZvQoUmgryy76r?usp=sharing)
 
 ## Quando e onde esse curso foi apresentado?
 
