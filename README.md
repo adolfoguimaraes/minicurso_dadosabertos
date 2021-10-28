@@ -23,7 +23,7 @@ Mais em: [https://github.com/adolfoguimaraes](https://github.com/adolfoguimaraes
 
 ## Quando e onde esse curso foi apresentado?
 
-* 28/10/21 - ERBASE 2021 (Evento online)
+* 28/10/21 - ERBASE 2021 (Evento online): [Slides da apresentação](https://drive.google.com/file/d/1inqxRY2kmdPMpRmzt_SGkmSh6cNKO4I2/view?usp=sharing)
 
 ## Contato:
 
