@@ -14,7 +14,6 @@ Mais em: [https://github.com/adolfoguimaraes](https://github.com/adolfoguimaraes
 
 ## Material
 
-- [Slides](https://docs.google.com/presentation/d/1aP2RSaunm2rqmZmhy6XpTL7Vj75kNexpEsOMJWhYyXA/edit?usp=sharing)
 - [Notebook](Material.ipynb)
 - [Dados](https://drive.google.com/drive/folders/1Td4fsWZIpHtv81r4uPEZvQoUmgryy76r?usp=sharing)
 
