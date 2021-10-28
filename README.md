@@ -15,7 +15,11 @@ Mais em: [https://github.com/adolfoguimaraes](https://github.com/adolfoguimaraes
 ## Material
 
 - [Notebook](Material.ipynb)
-- [Dados](https://drive.google.com/file/d/1Xj6FbHgVBfDvQ-LlL6AKy1u9jem3gaoG/view?usp=sharing)
+- [Dados - Arquivo único .zip](https://drive.google.com/file/d/1Xj6FbHgVBfDvQ-LlL6AKy1u9jem3gaoG/view?usp=sharing)
+
+- Dados por pasta: [Eleições](https://drive.google.com/drive/folders/13sO5FdX_WLjwmcm5rwY4habSMowAEMCW?usp=sharing) | [ENEM](https://drive.google.com/drive/folders/17ELgafWftV2K6tKyraG2yZhcPTOmOppT?usp=sharing) | [COVID](https://drive.google.com/drive/folders/12Ws8ZaHdflF5TQ0VYhUV7V7FnI-BMHur?usp=sharing)
+
+
 
 ## Quando e onde esse curso foi apresentado?
 
